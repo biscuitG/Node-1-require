@@ -6,9 +6,18 @@ function LS(arr,val){
     return NaN;
 }
 
+console.log("hello");
 function BS(arr,x){
     return true;
 }
+
+function func(a,b){
+    return a+b;
+}
+
+console.log(func(3,4));
+
+console.log("hi");
 
 console.log(module);
 module.exports={
